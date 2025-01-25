@@ -22,7 +22,7 @@ function Login({onLogin}) {
               onChange={(e)=>setEmail(e.target.value)}
               required
             />
-            <label >ENter Your password</label>
+            <label >Enter Your password</label>
             <input
               type="password"
               placeholder="Password"
